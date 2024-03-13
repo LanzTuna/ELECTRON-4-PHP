@@ -1,5 +1,5 @@
 {
-  "name": "ELECTRON4PHP",
+  "name": "ELECTRON-4-PHP",
   "version": "1.0.0",
   "description": "An easiest way to use php in electron",
   "main": "main.js",
